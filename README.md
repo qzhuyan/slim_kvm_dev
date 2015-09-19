@@ -8,7 +8,7 @@ Mainly for non-hardware related kernel feature development.
 2. Very thin, no kernel modules depedency.
 3. VM could be started very fast like start a docker.
 4. Fast kernel build becasue most of features are disabled.
-4. Pure&clean ubuntu LTS rootfs
+5. Pure&clean ubuntu LTS rootfs
 
 #Usage:
 1. build rootfs
